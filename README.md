@@ -1,5 +1,5 @@
-# x4-demo-mod
-Well, this is the most basic mod imaginable for X4:Foundations. 
+# X4:Foundations sample MOD
+Well, this is the most basic mod imaginable for X4: Foundations. 
 
 It's just the content.xml with the mod description, but the 'mod' doesn't do anything to the game. ;-)
 
@@ -14,5 +14,3 @@ To install the mod
 ## Sources
 
 My main inspiration was the fantastic "X Rebirth - Modding Guide" [thread](https://forum.egosoft.com/viewtopic.php?t=347831) by user Observe on the EGOSOFT forums.
-
-
