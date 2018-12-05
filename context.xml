@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="BUIWO_sample" name="SampleMOD" date="" version="001" save="false" enabled="true">
+  <text language="44" name="Sample MOD" description="The most basic MOD ever." author="buiwo" />
+  <text language="49" name="Beispiel MOD" description="Die einfachste MOD überhaupt." author="buiwo" />
+</content>
