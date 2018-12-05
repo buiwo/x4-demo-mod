@@ -9,7 +9,8 @@ To install the mod
 1. Download the zipped archive
 2. You might have to create the folder "extensions" in your X4 root game folder
 3. Extract the ZIP and place the containing folder into the 'extensions' folder
-4. Load the game and 'enjoy' the mod ;-)
+4. Enable the mod via the extensions sub menu after you launched the game
+5. 'Enjoy' the mod ;-)
 
 ## Sources
 
